@@ -1,0 +1,17 @@
+C:\Users\johan\Documents\visual studio\calcular edad persona\calcular edad persona\bin\Debug\net6.0-windows\calcular edad persona.exe
+C:\Users\johan\Documents\visual studio\calcular edad persona\calcular edad persona\bin\Debug\net6.0-windows\calcular edad persona.deps.json
+C:\Users\johan\Documents\visual studio\calcular edad persona\calcular edad persona\bin\Debug\net6.0-windows\calcular edad persona.runtimeconfig.json
+C:\Users\johan\Documents\visual studio\calcular edad persona\calcular edad persona\bin\Debug\net6.0-windows\calcular edad persona.dll
+C:\Users\johan\Documents\visual studio\calcular edad persona\calcular edad persona\bin\Debug\net6.0-windows\calcular edad persona.pdb
+C:\Users\johan\Documents\visual studio\calcular edad persona\calcular edad persona\obj\Debug\net6.0-windows\calcular edad persona.csproj.AssemblyReference.cache
+C:\Users\johan\Documents\visual studio\calcular edad persona\calcular edad persona\obj\Debug\net6.0-windows\calcular_edad_persona.Form1.resources
+C:\Users\johan\Documents\visual studio\calcular edad persona\calcular edad persona\obj\Debug\net6.0-windows\calcular edad persona.csproj.GenerateResource.cache
+C:\Users\johan\Documents\visual studio\calcular edad persona\calcular edad persona\obj\Debug\net6.0-windows\calcular edad persona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\Documents\visual studio\calcular edad persona\calcular edad persona\obj\Debug\net6.0-windows\calcular edad persona.AssemblyInfoInputs.cache
+C:\Users\johan\Documents\visual studio\calcular edad persona\calcular edad persona\obj\Debug\net6.0-windows\calcular edad persona.AssemblyInfo.cs
+C:\Users\johan\Documents\visual studio\calcular edad persona\calcular edad persona\obj\Debug\net6.0-windows\calcular edad persona.csproj.CoreCompileInputs.cache
+C:\Users\johan\Documents\visual studio\calcular edad persona\calcular edad persona\obj\Debug\net6.0-windows\calcular edad persona.dll
+C:\Users\johan\Documents\visual studio\calcular edad persona\calcular edad persona\obj\Debug\net6.0-windows\refint\calcular edad persona.dll
+C:\Users\johan\Documents\visual studio\calcular edad persona\calcular edad persona\obj\Debug\net6.0-windows\calcular edad persona.pdb
+C:\Users\johan\Documents\visual studio\calcular edad persona\calcular edad persona\obj\Debug\net6.0-windows\calcular edad persona.genruntimeconfig.cache
+C:\Users\johan\Documents\visual studio\calcular edad persona\calcular edad persona\obj\Debug\net6.0-windows\ref\calcular edad persona.dll
